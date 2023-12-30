@@ -4,7 +4,6 @@ import "fmt"
 
 func main() {
 	fmt.Println(Soma(10,10))
-	fmt.Println(Soma(20,20))
 }
 
 func Soma(a int, b int) int {
